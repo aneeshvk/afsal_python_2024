@@ -1,0 +1,22 @@
+wap to find area of a triangle , by inputing three sides
+a,b,c
+s=(a+b+c)/2
+area=rootof(s(s-a)(s-b)(s-c))
+
+
+wap to evaluate d=(b*b)-4*a*c
+
+
+
+wap to calculate simple interest
+i=p*n*r/100
+
+wap to compound interest
+
+WAP to convert total_seconds into hours minutes seconds
+
+ts=3768
+h=ts//3600
+ts=ts%3600   ts%=3600
+m=ts//60
+s=ts%60
